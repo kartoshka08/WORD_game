@@ -18,7 +18,7 @@ public class Wordly {
         startGame();
     }
 
-    void startGame(){
+    void startGame() {
         moreSpace();
         newPole(POLE);
         outPut(POLE);
